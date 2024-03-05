@@ -1,0 +1,9 @@
+{
+    "oio_teest":{
+        "host":"host",
+        "port":1234,
+        "qm":"qmmm",
+        "channel":"channel",
+        "queue":"queue"
+    }
+}
